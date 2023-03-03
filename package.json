@@ -14,7 +14,7 @@
       {
         "label": "Creme",
         "uiTheme": "vs",
-        "path": "./themes/Creme-color-theme.json"
+        "path": "./themes/creme-color-theme.json"
       }
     ]
   }
