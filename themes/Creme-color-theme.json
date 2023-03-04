@@ -1,5 +1,4 @@
 {
-  "$schema": "vscode://schemas/color-theme",
   "name": "Creme",
   "colors": {
     // Activity bar
@@ -151,4 +150,13 @@
     "scrollbarSlider.hoverBackground": "#e6d8b7dd",
     "scrollbarSlider.activeBackground": "#d8c3a5",
   },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#007700",
+        "fontStyle": "italic"
+      }
+    }
+  ]
 }
