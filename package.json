@@ -1,8 +1,8 @@
 {
-  "name": "creme",
+  "name": "vscode-creme-theme",
   "displayName": "Creme",
-  "description": "Light theme for VSCode",
-  "version": "0.0.1",
+  "description": "Light theme for VSCode that is easy on the eyes",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.76.0"
   },

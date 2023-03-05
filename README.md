@@ -1,4 +1,4 @@
-# Creme VSCode Theme
+# VSCode Creme Theme
 
 A light theme for VSCode
 

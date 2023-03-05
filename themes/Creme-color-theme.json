@@ -86,7 +86,7 @@
     "list.hoverForeground": "#000000",
     "list.inactiveSelectionBackground": "#f4e4ba",
     "list.inactiveSelectionForeground": "#000000",
-    "menu.background": "#f3e5abCC",
+    "menu.background": "#f3e5abcc",
     "menu.foreground": "#000000",
     "menu.selectionBackground": "#f4e4ba",
     "menu.selectionForeground": "#4b492d",
