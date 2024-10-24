@@ -31,9 +31,9 @@
     // Editor
     "editor.foreground": "#302c29",
     "editor.background": "#fdf6e3",
-    "editor.findMatchBackground": "#FFE5B4",
-    "editor.findMatchBorder": "#FFE5B4",
-    "editor.findMatchHighlightBackground": "#FFF9C1",
+    "editor.findMatchBackground": "#ffe5b4",
+    "editor.findMatchBorder": "#ffe5b4",
+    "editor.findMatchHighlightBackground": "#fff9c1",
     "editor.foldBackground": "#f4e4ba",
     "editorGroup.emptyBackground": "#f5f5dc",
     "editorGroupHeader.noTabsBackground": "#f3f0e9",
@@ -108,15 +108,16 @@
     "sideBarTitle.foreground": "#302c29",
 
     // Status and Title
-    "titleBar.activeBackground": "#f5f5dc",
+    "titleBar.activeBackground": "#efefc8",
     "titleBar.activeForeground": "#302c29",
+    "titleBar.inactiveBackground": "#f5f5dc",
     "titleBar.inactiveForeground": "#a89e8d",
     "statusBar.background": "#e6d8b7",
     "statusBar.foreground": "#302c29",
     "statusBar.border": "#fdf6e3",
-    "statusBarItem.hoverBackground": "#a89e8dcc",
+    "statusBarItem.hoverBackground": "#cca89e8d",
 
-    "pickerGroup.foreground": "#302c29",
+    "pickerGroup.foreground": "#000000",
     "pickerGroup.border": "#fdf6e3",
 
     "peekView.border": "#fdf6e3",
@@ -146,8 +147,8 @@
     "settings.textInputBackground": "#f5f5dc",
     "settings.textInputBorder": "#e6d8b7",
 
-    "scrollbarSlider.background": "#e6d8b7aa",
-    "scrollbarSlider.hoverBackground": "#e6d8b7dd",
+    "scrollbarSlider.background": "#aae6d8b7",
+    "scrollbarSlider.hoverBackground": "#dde6d8b7",
     "scrollbarSlider.activeBackground": "#d8c3a5",
   },
   "tokenColors": [
