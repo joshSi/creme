@@ -29,7 +29,7 @@
     "tab.activeBorder": "#fdf6e3",
 
     // Editor
-    "editor.foreground": "#302c29",
+    "editor.foreground": "#2f2930",
     "editor.background": "#fdf6e3",
     "editor.findMatchBackground": "#ffe5b4",
     "editor.findMatchBorder": "#ffe5b4",
@@ -81,7 +81,6 @@
     "list.dropBackground": "#f5f5dc",
     "list.focusBackground": "#f3e5ab",
     "list.focusForeground": "#000000",
-    "list.highlightForeground": "#f4e4ba",
     "list.hoverBackground": "#f4e4babb",
     "list.hoverForeground": "#000000",
     "list.inactiveSelectionBackground": "#f4e4ba",
@@ -111,11 +110,13 @@
     "titleBar.activeBackground": "#efefc8",
     "titleBar.activeForeground": "#302c29",
     "titleBar.inactiveBackground": "#f5f5dc",
-    "titleBar.inactiveForeground": "#a89e8d",
+    "titleBar.inactiveForeground": "#928c80",
     "statusBar.background": "#e6d8b7",
+    "statusBar.debuggingBackground":"#d2b09f",
+    "statusBar.noFolderBackground":"#e6d8b7",
     "statusBar.foreground": "#302c29",
     "statusBar.border": "#fdf6e3",
-    "statusBarItem.hoverBackground": "#cca89e8d",
+    "statusBarItem.hoverBackground": "#f5f5dc",
 
     "pickerGroup.foreground": "#000000",
     "pickerGroup.border": "#fdf6e3",
@@ -126,7 +127,7 @@
     "peekViewTitle.background": "#e6d8b7",  
     "peekViewTitleLabel.foreground": "#000000",
     "peekViewTitleDescription.foreground": "#333333",
-    "peekViewResult.selectionBackground": "#007700",
+    "peekViewResult.selectionBackground": "#f3fbd0",
     "peekViewResult.fileForeground": "#000000",
     "peekViewResult.lineForeground": "#000000",
     "peekViewResult.matchHighlightBackground": "#ffebcd",
@@ -147,8 +148,8 @@
     "settings.textInputBackground": "#f5f5dc",
     "settings.textInputBorder": "#e6d8b7",
 
-    "scrollbarSlider.background": "#aae6d8b7",
-    "scrollbarSlider.hoverBackground": "#dde6d8b7",
+    "scrollbarSlider.background": "#e6d8b7aa",
+    "scrollbarSlider.hoverBackground": "#e6d8b7dd",
     "scrollbarSlider.activeBackground": "#d8c3a5",
   },
   "tokenColors": [
